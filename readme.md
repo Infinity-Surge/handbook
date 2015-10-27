@@ -10,4 +10,5 @@ Neither this handbook nor any other company document confers any contractural ri
 ## Employment Policies
 * [At-Will Employment](https://github.com/atria-dynamics/handbook/blob/master/Employment%20Policies/At-Will%20Employment.md)
 * [Equal Opportunity Employment](https://github.com/atria-dynamics/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
-
+* [Nepotism, Relatives and Personal Relationships](https://github.com/atria-dynamics/handbook/blob/master/Employment%20Policies/Nepotism%20Relatives%20and%20Personal%20Relationships.md)
+* [Social Media Policy](https://github.com/atria-dynamics/handbook/blob/master/Employment%20Policies/Social%20Media%20Policy.md)
