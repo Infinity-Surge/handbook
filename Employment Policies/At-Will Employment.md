@@ -1,7 +1,7 @@
 # At-Will Employment Policy
 
 Your employment with RxJet is a voluntary one and is subject to 
-termination by you or Atria Dynamics at will, with or without 
+termination by you or RxJet at will, with or without 
 cause, and with or without notice, at any time. Nothing in these 
 policies shall be interpreted to be in conflict with or to eliminate 
 or modify in any way the employment-at-will status of RxJet employees.
